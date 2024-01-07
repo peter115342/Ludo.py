@@ -6,7 +6,7 @@
 # 3. Ak hrac hodi na hracej kocke cislo 6,hadze znova,toto je mozne najviac trikrat.
 # 5. Figurka je automaticky z pred domcekov presunuta na posledny volny domcek
 # 4. Vyhrava hrac,ktory dostane vsetky svoje figurky do domcekov ako prvy.
-########################################################################################################################
+######################################################################################################################
 
 # pouzite kniznice
 import random
